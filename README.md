@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 currently working on building a better world through blockchains
-- 🙏 all the work I do is open source and under MIT license, please consider donating if you appreciate my work
+- 🙏 all the work I do is open source and under MIT license, please consider donating if you appreciate what I do build
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-3EmoJhEihhcPdnXcMtjhgo871RAb79wfbs-orange) <br />
 ![Ethereum](https://img.shields.io/badge/Ethereum-0x8833Cfc296890532F422c36b3c04c74caa5D7399-blue) <br />
