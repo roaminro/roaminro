@@ -7,7 +7,7 @@ I'm Roamin, a software developer with 10+ years of experience including 3 years 
 
 | Blockchain                  | Address |
 | --------------------------- | ----------- |
-| Koinos | 0x8833Cfc296890532F422c36b3c04c74caa5D7399 |
+| Koinos | 1BHdaeVzRWhgkTiV6DXV9zQiPKmtnxM5yv |
 | Bitcoin | 3EmoJhEihhcPdnXcMtjhgo871RAb79wfbs |
 | Ethereum / ERC-20 | 0x8833Cfc296890532F422c36b3c04c74caa5D7399 |
 | BSC / BEP-20 | 0x8833Cfc296890532F422c36b3c04c74caa5D7399 |
