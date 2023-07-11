@@ -1,10 +1,8 @@
 ### Hi there!
 
-I'm a software developer with 10+ years of experience including 3 years in general blockchain development.
+I'm a software developer with a Master's degree and 10+ years of experience including 3 years in general blockchain development.
 
-- currently working on building a better world through blockchains.
-- available for Koinos blockchain related work (consulting, smart-contract development/review, etc.).
-- all the work I do on github is open source and under MIT license so please consider donating if you appreciate what I build.
+If you like some of my open source projects under MIT license, any donation would be appreciated.
 
 | Blockchain                  | Address |
 | --------------------------- | ----------- |
